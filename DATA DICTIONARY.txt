@@ -1,0 +1,3 @@
+# Data Dictionary
+
+Define all variables in each table here (or upload spreadsheet with definitions).

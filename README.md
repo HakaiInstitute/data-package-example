@@ -1,2 +1,4 @@
-# data-package-example
-data-package-example
+# data-pkg-example
+A template data package
+
+[Review Data Package Guidelines](https://docs.google.com/document/d/1wGoHCLVgaF5L2RLQgQ4zQ8l1K1W5G8IHvKqjFzn1tao/edit#heading=h.883bdeovrvh9)
